@@ -1,4 +1,4 @@
-# Employee-Management-System-Project
+# Employee-Management-System-Project-in-React-Node-MySQL
 
 ## Prerequisites
 
