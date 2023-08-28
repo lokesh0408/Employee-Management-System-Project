@@ -1,0 +1,25 @@
+.loginPage {
+  background: url("https://media.istockphoto.com/id/855352346/photo/glass-bulb-explosion.jpg?s=612x612&w=0&k=20&c=vcimKAJgnw3NwsUnkSjaMpv4_rYOMAPUv_dZaociDBw=");
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+    url("https://media.istockphoto.com/id/855352346/photo/glass-bulb-explosion.jpg?s=612x612&w=0&k=20&c=vcimKAJgnw3NwsUnkSjaMpv4_rYOMAPUv_dZaociDBw=");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+.loginForm {
+  background-color: rgba(1, 32, 93, 0.6);
+  color: white;
+}
+
+.employee_image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.empImg {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}

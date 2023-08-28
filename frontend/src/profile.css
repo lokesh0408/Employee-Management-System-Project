@@ -1,0 +1,13 @@
+.profile-container {
+  padding: 20px;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+  .table-responsive {
+    width: 100%;
+  }
+}
